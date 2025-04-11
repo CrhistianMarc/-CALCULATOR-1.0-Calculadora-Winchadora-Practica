@@ -11,7 +11,7 @@
 
 ## Captura de pantalla
 
-![ブシタ Calculator](screenshot.png)
+![ブシタ Calculator](screenshot.jpg)
 
 ## Cómo usar
 
@@ -23,7 +23,7 @@
 
 Puedes descargar el archivo desde aquí:
 
-[**Descargar ブシタ CALCULATOR 1.0**](./ブシタ CALCULATOR 1.0.html)
+[**Descargar ブシタ CALCULATOR 1.0**](./ブシタ_CALCULATOR_1.0.html)
 
 ## Créditos
 
