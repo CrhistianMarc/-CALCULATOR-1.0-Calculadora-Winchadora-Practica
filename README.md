@@ -23,7 +23,7 @@
 
 Puedes descargar el archivo desde aquí:
 
-[**Descargar ブシタ CALCULATOR 1.0**](./ブシタ_CALCULATOR_1.0.html)
+[**Descargar ブシタ CALCULATOR 1.0**](./ブシタCALCULATOR1.0.html)
 
 ## Créditos
 
