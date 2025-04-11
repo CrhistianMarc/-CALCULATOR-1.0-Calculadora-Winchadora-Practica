@@ -23,7 +23,7 @@
 
 Puedes descargar el archivo desde aquí:
 
-[**Descargar ブシタ CALCULATOR 1.0**](https://raw.githubusercontent.com/CrhistianMarc/-CALCULATOR-1.0-Calculadora-Winchadora-Practica/refs/heads/main/%E3%83%96%E3%82%B7%E3%82%BF%20CALCULATOR%201.0.html)
+[**Descargar ブシタ CALCULATOR 1.0 (.rar)**](./ブシタ_CALCULATOR_1.0.rar)
 
 ## Créditos
 
