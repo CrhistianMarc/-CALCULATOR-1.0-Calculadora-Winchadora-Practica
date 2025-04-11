@@ -15,8 +15,8 @@
 
 ## Cómo usar
 
-1. Descarga el archivo `ブシタ CALCULATOR 1.0.html` desde este repositorio.
-2. Ábrelo con cualquier navegador (Chrome, Firefox, Edge, etc.).
+1. Descarga el archivo `ブシタ CALCULATOR 1.0.rar` desde este repositorio.
+2. Descomprime y Ábrelo con cualquier navegador (Chrome, Firefox, Edge, etc.).
 3. Empieza a calcular y verás cómo se guarda tu historial automáticamente en pantalla.
 
 ## Descargar
