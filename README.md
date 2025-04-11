@@ -24,6 +24,7 @@
 Puedes descargar el archivo desde aquí:
 
 [**Descargar ブシタ CALCULATOR 1.0 (.rar)**](./%E3%83%96%E3%82%B7%E3%82%BF%20CALCULATOR%201.0.rar)
+Tambien En Google Drive Clic en este enlace https://drive.google.com/file/d/17LcI2U3oHAAJ-b1S280HAw5QPZ73MMjq/view?usp=drivesdk
 
 ## Créditos
 
